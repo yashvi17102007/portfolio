@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Music Player",
-    link: "https://music-plyayer.netlify.app/",
+    link: "https://musicplayer-r.netlify.app/",
     desc: "A stylish web-based music player built with React that allows users to play, pause, and switch between tracks with ease. It features a modern UI, album covers, and smooth audio controls for an engaging listening experience.",
   },
   {
